@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
+.li, p{
+    font-family: 'Hind Vadodara', sans-serif;
+}
+.headcase {
+    object-fit: cover;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    height: 500px;
+    text-align: center;
+    
+}
+.headcase img{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+.content {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.content {
+    margin-left: 15px;
+}
+.houses {
+    width: 200px; height: 250px;
+}
+.house_name {
+    margin-left: 75px;
+}
+.Main_Charater h3{
+    font-family: 'Marck Script', cursive;
+}
+
+.houses a{
+    margin-left: 65px;
+}

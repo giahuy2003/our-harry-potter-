@@ -1,0 +1,33 @@
+.headcase3 {
+    object-fit: cover;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    height: 500px; 
+}
+.headcase3 img{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+.info2 img{
+    width: 250px;
+    height: 350px;
+}
+.h1{
+    font-family: 'UnifrakturMaguntia', cursive;
+}
+.search_bar {
+    overflow: hidden;
+    background-color: wheat;
+}
+.search_bar input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 16px;
+    text-align: left;
+}

@@ -1,0 +1,39 @@
+h1 {
+    font-family: 'UnifrakturMaguntia', cursive;
+}
+.headcase2 {
+    object-fit: cover;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    height: 500px; 
+}
+.headcase2 img{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+.info1 img{
+    width: 250px;
+    height: 350px;
+}
+body {
+    background-color: rgb(204, 153, 0);
+}
+a {
+    color: rgb(13, 13, 13);
+}
+.search_bar {
+    overflow: hidden;
+    background-color: wheat;
+}
+.search_bar input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 16px;
+    text-align: left;
+}
